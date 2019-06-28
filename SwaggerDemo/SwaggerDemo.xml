@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerDemo</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerDemo.Controllers.StudentController.GetList">
+            <summary>
+            学生信息列表
+            </summary>
+            <remarks>
+            这个api是用来获取学生详细信息列表的接口
+            </remarks>
+            <returns></returns>
+        </member>
+        <member name="M:SwaggerDemo.Controllers.StudentController.GetStudent(System.Int32)">
+            <summary>
+            学生信息
+            </summary>
+            <remarks>
+            这个api是用来获取单个学生信息的接口
+            </remarks>
+            <param name="Id">学生Id</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
